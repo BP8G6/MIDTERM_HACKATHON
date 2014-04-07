@@ -1,0 +1,24 @@
+Number of labels: 8
+Number of documents in training set: 208473
+Tweet: 760578	 health club
+  Bank account or service: -115.68678617555194  Consumer loan: -103.27718522083138  Credit card: -118.86611787706987  Credit reporting: -120.07107367072925  Debt collection: -23.41238184462986  Money transfers: -90.85204377708433  Mortgage: -123.25068197212215  Student loan: -109.34014135851702 => Debt collection
+Tweet: 760574	Managing the loan or lease
+  Bank account or service: -147.71753165079502  Consumer loan: -21.814773381885576  Credit card: -151.77713989796922  Credit reporting: -153.3157174786238  Debt collection: -151.23636013328482  Money transfers: -116.00667713091858  Mortgage: -135.39820488030307  Student loan: -122.99179077194458 => Consumer loan
+Tweet: 760570	 health club
+  Bank account or service: -115.68678617555194  Consumer loan: -103.27718522083138  Credit card: -118.86611787706987  Credit reporting: -120.07107367072925  Debt collection: -23.41238184462986  Money transfers: -90.85204377708433  Mortgage: -123.25068197212215  Student loan: -109.34014135851702 => Debt collection
+Tweet: 760584	 health club
+  Bank account or service: -115.68678617555194  Consumer loan: -103.27718522083138  Credit card: -118.86611787706987  Credit reporting: -120.07107367072925  Debt collection: -23.41238184462986  Money transfers: -90.85204377708433  Mortgage: -123.25068197212215  Student loan: -109.34014135851702 => Debt collection
+Tweet: 760535	Disclosure verification of debt
+  Bank account or service: -188.5249078625281  Consumer loan: -168.30203752494893  Credit card: -157.66882695101708  Credit reporting: -195.66960799117433  Debt collection: -45.430106371344294  Money transfers: -148.05384217525113  Mortgage: -200.85114498321593  Student loan: -178.1823210475392 => Debt collection
+Tweet: 760500	Problems caused by my funds being low
+  Bank account or service: -80.46409084833701  Consumer loan: -275.51925618667974  Credit card: -357.60935194389907  Credit reporting: -323.364259379222  Debt collection: -356.33519497056847  Money transfers: -273.3288600499448  Mortgage: -370.8003364951881  Student loan: -253.0064064802384 => Bank account or service
+Tweet: 760491	"Application
+  Bank account or service: -54.04239584764572  Consumer loan: -48.24532438186359  Credit card: -27.782397641168068  Credit reporting: -56.090489741141106  Debt collection: -55.329757744676584  Money transfers: -42.44099326882701  Mortgage: -12.241602051632116  Student loan: -51.07759837297013 => Mortgage
+Tweet: 760223	"Loan servicing
+  Bank account or service: -60.40681641250134  Consumer loan: -38.50571955178886  Credit card: -62.06693087117948  Credit reporting: -62.69610854841487  Debt collection: -61.84578728991444  Money transfers: -47.43914936676375  Mortgage: -7.638844334151945  Student loan: -40.47099248663679 => Mortgage
+Tweet: 760486	 health club
+  Bank account or service: -115.68678617555194  Consumer loan: -103.27718522083138  Credit card: -118.86611787706987  Credit reporting: -120.07107367072925  Debt collection: -23.41238184462986  Money transfers: -90.85204377708433  Mortgage: -123.25068197212215  Student loan: -109.34014135851702 => Debt collection
+Tweet: 760414	 health club
+  Bank account or service: -115.68678617555194  Consumer loan: -103.27718522083138  Credit card: -118.86611787706987  Credit reporting: -120.07107367072925  Debt collection: -23.41238184462986  Money transfers: -90.85204377708433  Mortgage: -123.25068197212215  Student loan: -109.34014135851702 => Debt collection
+Tweet: 760519	"Loan modification
+  Bank account or service: -51.23504719323914  Consumer loan: -30.3177964555153  Credit card: -52.643100914457094  Credit reporting: -53.17674843804049  Debt collection: -52.455534303675556  Money transfers: -40.236304459677726  Mortgage: -5.212978567142047  Student loan: -31.80239189624581 => Mortgage
